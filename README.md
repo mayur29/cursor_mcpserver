@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mayur29-cursor-mcpserver-badge.png)](https://mseep.ai/app/mayur29-cursor-mcpserver)
+
 # Cursor MCP Server
 
 A GitHub server integration for Cursor IDE using MCP (Multi-Cloud Protocol).
